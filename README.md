@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1> Next Level Week 01 - Ecoleta - 01/06/2020 - 05/06/2020 </h1>
+  <h1> Semana Omnistack 11 - BeTheHero - 23/03/2020 - 28/03/2020 </h1>
 </div>
 
 <div align="center" style="margin: 20px;">
@@ -25,26 +25,26 @@
 
 ## 🎯 Descrição da Aplicação
 
-<p> Aplicativo para armazenar informações de estabelecimentos que coletam items de resíduos para reciclagem. O estabelecimento pode armazenar as informações como nome da loja, whatsapp, e-mail e endereço da loja, além de informar os itens que são coletados. O usuário pode buscar os estabelecimentos que possuem coleta do item desejado no endereço desejado, além de poder entrar em contato via whatsapp e e-mail com estabelecimento. </p> 
+<p> Aplicativo para armazenar informações de ONGs ondem possam fazer pedidos de doação financeira para que usuarios que queiram ajudar possam entrar em contato para fazer a transação financeira. O usuário pode buscar as ONGs cadastradas apartir  via whatsapp e e-mail com estabelecimento. </p> 
 
-<p> O aplicativo foi organizado onde o estabelecimento utiliza a web para armazenar suas informações e o usuário utiliza o aplicativo mobile para procurar os estabelecimentos. </p> 
+<p> O aplicativo foi organizado onde as ONGs utilizam a web para armazenar suas informações e o usuário utiliza o aplicativo mobile para procura-las. </p> 
 
 <p> A aplicação foi criada através do curso realizado pela 
   <img alt="logo rocketseat" src="./img/rocketseat.png" width="auto" heigth="auto"/>
   <a href="https://rocketseat.com.br/"> Rocketseat </a>
-  (Next Level Week - 01), onde esse curso foi realizado no dia <strong> 01/06/2020 </strong> até o dia <strong> 05/06/2020 </strong>. 
+  (Semana Omnistack - 11), onde esse curso foi realizado no dia <strong> 23/03/2020 </strong> até o dia <strong> 28/03/2020 </strong>. 
 </p> 
 
 ## 🚀 Tecnologias Utilizadas
 
 <p>
-  <strong> Back-end </strong>: Node.JS com TypeScript
+  <strong> Back-end </strong>: Node.JS
 </P>
 <p>
-  <strong> Front-end Web</strong>: React com TypeScript
+  <strong> Front-end Web</strong>: React
 </P>
 <p>
-  <strong> Front-end Mobile</strong>: React Native com TypeScript
+  <strong> Front-end Mobile</strong>: React Native
 </P>
 <p>
   <strong> Banco de dados </strong>: SQLite
@@ -52,9 +52,9 @@
 
 ## 👨‍🚀 Dependências Utilizadas
 
-  <p> <strong> Back-end </strong>: celebrate, cors, express, knex, multer, sqlite3. </p>
-  <p> <strong> Front-end Web </strong>: axios, react-leaflet, react-dropzone, react-icons, react-router-dom. </p>
-  <p> <strong> Front-end Mobile </strong>: expo-font, expo-location, , expo-mail-composer, expo-google-fonts, react-navigation, axios, constants, logkitty, react-native-gesture-handler, react-native-maps, react-native-reanimated, react-native-safe-area-context", react-native-screens, react-native-svg. </p>
+  <p> <strong> Back-end </strong>: celebrate, cors, express, knex, cross-env, sqlite3. </p>
+  <p> <strong> Front-end Web </strong>: axios, react-icons, react-router-dom. </p>
+  <p> <strong> Front-end Mobile </strong>: axios, expo-constants, expo-mail-composer, intl, logkitty </p>
   
 ## 🔥 Prévia da Aplicação
 
@@ -62,6 +62,8 @@
   <div style="margin: 50px;">
     <img alt="tela web um" src="./img/web-1.png" width="600" heigth="300" style="margin: 50px;"/>
     <img alt="tela web dois" src="./img/web-2.png" width="600" heigth="300" style="margin: 50px;"/>
+    <img alt="tela web tres" src="./img/web-3.png" width="600" heigth="300" style="margin: 50px;"/>
+    <img alt="tela web quatro" src="./img/web-4.png" width="600" heigth="300" style="margin: 50px;"/>
   </div>
   <div style="margin: 50px;">
     <img alt="tela mobile um" src="./img/mobile-1.jpg" width="200" heigth="150" style="margin: 50px;"/>
@@ -79,8 +81,8 @@
 #### Clonando o projeto
 
 ```sh
-$ git clone https://github.com/EikESousA/RS-Ecoleta.git
-$ cd RS-Ecoleta
+$ git clone https://github.com/EikESousA/RS-BeTheHero.git
+$ cd RS-BeTheHero
 ```
 
 #### Iniciando a API
@@ -107,7 +109,7 @@ $ yarn && yarn android && yarn start
 
 ```bash
 # Clone o seu fork
-$ git clone url-do-seu-fork && cd RS-Ecoleta
+$ git clone url-do-seu-fork && cd RS-BeTheHero
 
 # Crie uma branch com sua feature ou correção de bugs
 $ git checkout -b minha-branch
@@ -118,3 +120,7 @@ $ git commit -m 'feature/bugfix: minhas alterações'
 # Faça o push para a sua branch
 $ git push origin minha-branch
 ```
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
