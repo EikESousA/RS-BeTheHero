@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1> Semana Omnistack 11 - BeTheHero - 23/03/2020 - 28/03/2020 </h1>
+  <h1> Semana Omnistack 11 - BeTheHero - 23/03/2020 - 27/03/2020 </h1>
 </div>
 
 <div align="center" style="margin: 20px;">
@@ -32,7 +32,7 @@
 <p> A aplicação foi criada através do curso realizado pela 
   <img alt="logo rocketseat" src="./img/rocketseat.png" width="auto" heigth="auto"/>
   <a href="https://rocketseat.com.br/"> Rocketseat </a>
-  (Semana Omnistack - 11), onde esse curso foi realizado no dia <strong> 23/03/2020 </strong> até o dia <strong> 28/03/2020 </strong>. 
+  (Semana Omnistack - 11), onde esse curso foi realizado no dia <strong> 23/03/2020 </strong> até o dia <strong> 27/03/2020 </strong>. 
 </p> 
 
 ## 🚀 Tecnologias Utilizadas
